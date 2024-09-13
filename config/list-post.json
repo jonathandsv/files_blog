@@ -9,18 +9,6 @@
         "PubDate": "2024-09-13T00:00:00Z",
         "LastModified": "2024-09-13T00:00:00Z",
         "Slug": "cqrs-vindo-de-um-json",
-        "UrlContent": "cqrs",
-        "Categories": [],
-        "Tags": [
-            {
-                "id": "390c6d1f-0c0d-4e36-8733-a92d4efadf25",
-                "description": "dotnet"
-            },
-            {
-                "id": "ad4a3a8e-17c4-4eeb-a17d-ee421b694041",
-                "description": "CQRS"
-            }
-        ],
-        "Comments": []
+        "UrlContent": "cqrs"
     }
 ]
