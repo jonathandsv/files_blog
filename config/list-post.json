@@ -1,11 +1,11 @@
 [
     {
-        "Id": "be142aa3-bddf-4269-b31c-31d1f8361e96",
-        "Title": "Post CQRS vindo de um json",
-        "Content": "Breve apresentação de CQRS",
-        "Excerpt": "",
-        "IsPublished": true,
-        "Slug": "cqrs-vindo-de-um-json",
-        "UrlContent": "cqrs"
+        "id": "be142aa3-bddf-4269-b31c-31d1f8361e96",
+        "title": "Post CQRS vindo de um json",
+        "content": "Breve apresentação de CQRS",
+        "excerpt": "",
+        "isPublished": true,
+        "slug": "cqrs-vindo-de-um-json",
+        "urlContent": "cqrs"
     }
 ]
