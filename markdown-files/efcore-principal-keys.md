@@ -1,5 +1,3 @@
-# Chaves alternativas com EFCore (Principal Keys)
-
 Quando se trabalha com ORM é necessário um bom conhecimento das funcionalidades para conseguir mapear bem o banco de dados e criar relacionamentos corretamente para aproveitar todos os benefícios que isso nos trás.
 
 Durante o mapeamento de uma banco legado tive a necessidade de buscar como criar chaves alternativas para indicar relacionamentos entre tabelas. Com isso cheguei a uma funcionalidade do EF Core chamada Principal Keys.
