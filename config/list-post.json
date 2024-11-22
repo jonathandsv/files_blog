@@ -22,5 +22,29 @@
             }
         ],
         "Comments": []
+    },
+    {
+        "Id": "933c1124-1fe0-4533-85a8-8be50f543528",
+        "Title": "O que são consultas projetadas no EF Core? Exemplos avançados",
+        "Content": "Como usar consultas projetadas em exemplos avançados",
+        "Excerpt": "",
+        "IsPublished": true,
+        "CreateDate": "2024-11-21T00:00:00Z",
+        "PubDate": "2024-11-21T00:00:00Z",
+        "LastModified": "2024-11-21T00:00:00Z",
+        "Slug": "consultas-projetadas-efcore-exemplos-avancados",
+        "UrlContent": "consultas-projetadas-efcore-exemplos-avancados",
+        "Categories": [],
+        "Tags": [
+            {
+                "id": "390c6d1f-0c0d-4e36-8733-a92d4efadf25",
+                "description": "dotnet"
+            },
+            {
+                "id": "c0b4d5d4-4cda-4c70-a7c5-bb7694d8a558", 
+                "description": "ef core"
+            }
+        ],
+        "Comments": []
     }
 ]
